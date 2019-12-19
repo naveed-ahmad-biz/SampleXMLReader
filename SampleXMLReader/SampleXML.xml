@@ -1,0 +1,164 @@
+﻿<rss xmlns:jobs="https://www.mysite.com/rss/jobs/" version="2.0">
+  <channel>
+    <title>Recent job postings</title>
+    <description>Our latest job postings.</description>
+    <link>http://www.mysite.com</link>
+    <language>en-us</language>
+    <copyright>Copyright 2019 mysite Career Center</copyright>
+    <lastBuildDate>Wed, 18 Dec 2019 21:35:58 CST</lastBuildDate>
+    <item>
+      <guid isPermaLink="false">
+        <![CDATA[ 52371982 ]]>
+      </guid>
+      <title>
+        <![CDATA[
+Department - - Faculty Position - Greenville, NC
+]]>
+      </title>
+      <link>
+        <![CDATA[
+https://www.externalsitelink/job/jobid/1
+]]>
+      </link>
+      <description>
+        <![CDATA[ ]]>
+      </description>
+      <pubDate>
+        <![CDATA[ Wed, 18 Dec 2019 00:27:53 CST ]]>
+      </pubDate>
+      <jobs:position>
+        <![CDATA[ Faculty Position ]]>
+      </jobs:position>
+      <jobs:company>
+        <![CDATA[ University ]]>
+      </jobs:company>
+      <jobs:location>
+        <![CDATA[ Greenville, NC, United States ]]>
+      </jobs:location>
+    </item>
+    <item>
+      <guid isPermaLink="false">
+        <![CDATA[ 52371904 ]]>
+      </guid>
+      <title>
+        <![CDATA[
+Department - University - Greenville, NC
+]]>
+      </title>
+      <link>
+        <![CDATA[
+https://www.externalsitelink/job/jobid/3
+]]>
+      </link>
+      <description>
+        <![CDATA[ ]]>
+      </description>
+      <pubDate>
+        <![CDATA[ Wed, 18 Dec 2019 00:26:11 CST ]]>
+      </pubDate>
+      <jobs:position>
+        <![CDATA[ Faculty Position ]]>
+      </jobs:position>
+      <jobs:company>
+        <![CDATA[ University ]]>
+      </jobs:company>
+      <jobs:location>
+        <![CDATA[ Greenville, NC, United States ]]>
+      </jobs:location>
+    </item>
+    <item>
+      <guid isPermaLink="false">
+        <![CDATA[ 52327006 ]]>
+      </guid>
+      <title>
+        <![CDATA[
+Assistant Research Professor - University - , IN
+]]>
+      </title>
+      <link>
+        <![CDATA[
+https://www.externalsitelink/job/jobid/3
+]]>
+      </link>
+      <description>
+        <![CDATA[ ]]>
+      </description>
+      <pubDate>
+        <![CDATA[ Sun, 15 Dec 2019 01:05:24 CST ]]>
+      </pubDate>
+      <jobs:position>
+        <![CDATA[ Assistant Research Professor ]]>
+      </jobs:position>
+      <jobs:company>
+        <![CDATA[ University ]]>
+      </jobs:company>
+      <jobs:location>
+        <![CDATA[ IN, United States ]]>
+      </jobs:location>
+    </item>
+    <item>
+      <guid isPermaLink="false">
+        <![CDATA[ 52275083 ]]>
+      </guid>
+      <title>
+        <![CDATA[
+Faculty Position - New York Presbyterian - New York, NY
+]]>
+      </title>
+      <link>
+        <![CDATA[
+https://www.externalsitelink/job/jobid/4
+]]>
+      </link>
+      <description>
+        <![CDATA[ ]]>
+      </description>
+      <pubDate>
+        <![CDATA[ Fri, 13 Dec 2019 09:08:52 CST ]]>
+      </pubDate>
+      <jobs:position>
+        <![CDATA[
+Faculty Position - 
+]]>
+      </jobs:position>
+      <jobs:company>
+        <![CDATA[ New York Presbyterian ]]>
+      </jobs:company>
+      <jobs:location>
+        <![CDATA[ New York, NY, United States ]]>
+      </jobs:location>
+    </item>
+    <item>
+      <guid isPermaLink="false">
+        <![CDATA[ 52273614 ]]>
+      </guid>
+      <title>
+        <![CDATA[
+Faculty Position - Danville, PA
+]]>
+      </title>
+      <link>
+        <![CDATA[
+https://www.externalsitelink/job/jobid/5
+]]>
+      </link>
+      <description>
+        <![CDATA[ ]]>
+      </description>
+      <pubDate>
+        <![CDATA[ Thu, 12 Dec 2019 13:01:04 CST ]]>
+      </pubDate>
+      <jobs:position>
+        <![CDATA[
+Faculty Position
+]]>
+      </jobs:position>
+      <jobs:company>
+        <![CDATA[ Faculty Position ]]>
+      </jobs:company>
+      <jobs:location>
+        <![CDATA[ Danville, PA, United States ]]>
+      </jobs:location>
+    </item>
+  </channel>
+</rss>
